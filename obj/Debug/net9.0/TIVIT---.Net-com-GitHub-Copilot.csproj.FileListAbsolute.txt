@@ -1,0 +1,14 @@
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\bin\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.exe
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\bin\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.deps.json
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\bin\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.runtimeconfig.json
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\bin\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.dll
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\bin\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.pdb
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.dll
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\refint\TIVIT---.Net-com-GitHub-Copilot.dll
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.pdb
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.genruntimeconfig.cache
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\ref\TIVIT---.Net-com-GitHub-Copilot.dll
