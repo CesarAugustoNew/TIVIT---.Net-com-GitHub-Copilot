@@ -1,5 +1,15 @@
 ﻿using TIVIT___.Net_com_GitHub_Copilot.Models;
 
+string fala = "Ola, seja bem vindo";
+
+
+
+
+
+
+
+
+
 Pessoa pessoa1 = new Pessoa();
 
 pessoa1.Nome = "Cesar";
