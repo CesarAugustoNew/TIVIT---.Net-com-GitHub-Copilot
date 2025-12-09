@@ -19,3 +19,6 @@ pessoa1.Nome = "Cesar";
 pessoa1.Idade = 22;
 pessoa1.Endereco = "São Paulo";
 pessoa1.Apresentar();  
+
+DateTime dataAtual = DateTime.Now;
+Console.WriteLine(dataAtual);

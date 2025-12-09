@@ -12,3 +12,4 @@ C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\
 C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.pdb
 C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.genruntimeconfig.cache
 C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\ref\TIVIT---.Net-com-GitHub-Copilot.dll
+C:\Users\Pichau\Downloads\AULA\TIVIT---.Net-com-GitHub-Copilot\obj\Debug\net9.0\TIVIT---.Net-com-GitHub-Copilot.sourcelink.json
