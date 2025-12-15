@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TIVIT---.Net-com-GitHub-Copilot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b6d78f33d443f2fff97cfd74b8d5c3b4a80d6b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eb44dea3687bf243e3d16f03c2c81a1c58eea28")]
 [assembly: System.Reflection.AssemblyProductAttribute("TIVIT---.Net-com-GitHub-Copilot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TIVIT---.Net-com-GitHub-Copilot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

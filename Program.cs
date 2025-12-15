@@ -1,4 +1,5 @@
 ﻿using System.Reflection.Metadata;
+using System.Runtime.Intrinsics.Arm;
 using TIVIT___.Net_com_GitHub_Copilot.Models;
 
 
@@ -125,3 +126,95 @@ Console.WriteLine("Decrementando o 20");
 numeroDecremento--;
 
 Console.WriteLine(numeroDecremento);
+
+int number = 5;
+
+for(int contador = 0; contador <= 10; contador++)
+{
+    Console.WriteLine($"{number} x {contador} = {number * contador}");
+}
+
+int numeroWhile = 5;
+int contadorWhile = 0;
+
+while (contadorWhile <= 10)
+{
+    Console.WriteLine($"{contadorWhile} Execução: {numeroWhile} x {contadorWhile} = {numeroWhile * contadorWhile}");
+    contadorWhile++;
+
+    if (contadorWhile == 6)
+    {
+        break;
+    }
+}
+
+int total = 0, Numbers = 0;
+
+do
+{
+    Console.WriteLine($"Digite um numeor (0 para parar)");
+    Numbers = Convert.ToInt32(Console.ReadLine());
+
+    total += Numbers;
+} while(Numbers != 0);
+
+Console.WriteLine($"Total da soma dos numeros digitados é {total}");
+
+string opcao;
+bool exibirMenu = true;
+
+while(exibirMenu)
+{   
+    Console.Clear();
+    Console.WriteLine("Digite a sua opção:");
+    Console.WriteLine("1 - Cadastrar clientes");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Apagar cliente");
+    Console.WriteLine("4 - Encerrar");
+
+    opcao = Console.ReadLine();
+
+    switch(opcao)
+    {
+        case "1":
+            Console.WriteLine("Cadasteo de cliente");
+            break;
+        
+        case "2":
+            Console.WriteLine("Busca de cliente");
+            break;
+        
+        case "3":
+            Console.WriteLine("Apaga de cliente");
+            break;
+
+        case "4":
+            Console.WriteLine("Encerrar");
+            exibirMenu = false;
+            break;
+
+        default:
+            Console.WriteLine("Opção invalida");
+            break;
+    }       
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
